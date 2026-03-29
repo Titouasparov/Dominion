@@ -1,0 +1,6 @@
+Nom,Type,Coût,Description
+Cuivre,Trésor,0,Donne +1 d'argent
+Argent,Trésor,3,Donne +2 d'argent
+Or,Trésor,6,Donne +3 d'argent
+Domaine,Victoire,2,Donne +1 PV
+Duché,Victoire,5,Donne +2 PV

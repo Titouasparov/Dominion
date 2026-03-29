@@ -1,0 +1,30 @@
+id;type;cout;description;nbCartes;nbActions;nbGold;nbAchats;attaque;reaction
+Jardin;Royaume;4;1 PV par 10 cartes
+Atelier;Royaume;4;Gagner une carte coûtant jusqu'à 4;0;0;0;0;0;0
+Bucheron;Royaume;3;+1 Achat +1 Or;0;0;1;1;0;0
+Chapelle;Royaume;2;Trasher jusqu'à 4 cartes;0;0;0;0;0;0
+Douve;Royaume;2;+2 cartes, si un autre joueur joue une carte Attaque, révélez cette carte pour ne pas en être affecté;2;0;0;0;0;1
+Festin;Royaume;4;Trasher cette carte, gagner une carte coûtant jusqu'à 5;0;0;0;0;0;0
+Laboratoire;Royaume;5;+2 cartes +1 action;2;1;0;0;0;0
+Sorciere;Royaume;5;+2 cartes, chaque autre joueur gagne une Malédiction;2;0;0;0;1;0
+Village;Royaume;3;+1 carte +2 actions;1;2;0;0;0;0
+Voleur;Royaume;4;Chaque autre joueur révèle les 2 premières cartes de son deck, s'il révèle une Trésor, il en trashe une que vous choisissez, vous pouvez gagner une carte Trésor défaussée;0;0;0;0;1;0
+Cave;Royaume;2;+1 action, défaussez n'importe quel nombre de cartes, puis piochez le même nombre;0;1;0;0;0;0
+Harbinger;Royaume;3;+1 carte +1 action, regardez dans votre pile de défausse, mettez une carte sur votre deck;1;1;0;0;0;0
+Marchand;Royaume;3;+1 carte +1 action, la première fois que vous jouez un Argent ce tour-ci, gagnez +1;1;1;0;1;0;0
+Vassal;Royaume;3;+2 Or, défaussez la carte du dessus de votre deck, si c'est une carte Action, vous pouvez la jouer;0;0;2;0;0;0
+Bureaucrate;Royaume;4;Gagnez un Argent sur votre deck, chaque autre joueur révèle une carte de Victoire de sa main et la place sur son deck (ou révèle une main sans cartes de Victoire);0;0;0;0;1;0
+Milice;Royaume;4;+2 Or, chaque autre joueur réduit sa main à 3 cartes;0;0;2;0;1;0
+Preteur;Royaume;4;Vous pouvez défausser un Cuivre pour gagner +3 Or;0;0;0;0;0;0
+Braconnier;Royaume;4;+1 carte +1 action +1 Or;1;1;1;0;0;0
+Renovation;Royaume;4;Trasher une carte de votre main, gagnez une carte coûtant jusqu'à 2 de plus;0;0;0;0;0;0
+Forge;Royaume;4;+3 cartes;3;0;0;0;0;0
+Salle_trone;Royaume;4;Jouez une carte Action de votre main deux fois;0;0;0;0;0;0
+Bandit;Royaume;5;Gagnez un Or, chaque autre joueur révèle les 2 premières cartes de son deck, trashe une Trésor autre que Cuivre, et défausse le reste;0;0;1;0;1;0
+Salle_Conseil;Royaume;5;+4 cartes +1 achat, chaque autre joueur pioche une carte;4;0;0;1;0;0
+Festival;Royaume;5;+2 actions +1 achat +2 Or;0;2;2;1;0;0
+Bibliotheque;Royaume;5;Piochez jusqu'à avoir 7 cartes en main, ignorez les cartes Action que vous souhaitez et défaussez-les;0;0;0;0;0;0
+Marche;Royaume;5;+1 carte +1 action +1 achat +1 Or;1;1;1;1;0;0
+Mine;Royaume;5;Trasher un Trésor de votre main pour en gagner un d'une valeur supérieure;0;0;0;0;0;0
+Sentinelle;Royaume;5;Regardez les 2 premières cartes de votre deck, défaussez ou trashez celles que vous souhaitez et replacez les autres;0;0;0;0;0;0
+Artisan;Royaume;6;Gagnez une carte coûtant jusqu'à 5, placez une carte de votre main sur votre deck;0;0;0;0;0;0
